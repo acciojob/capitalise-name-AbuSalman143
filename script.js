@@ -4,5 +4,3 @@
 input.addEventListener("blur",function () {
 	input.value=input.value.toUpperCase();
 })
-
-add
